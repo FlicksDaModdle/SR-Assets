@@ -1,19 +1,3 @@
-<style>
-  body {
-    text-align: center;
-  }
-  h1, p {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  img {
-    width: 600px;
-    display: flex;
-    margin: 0 auto;
-  }
-</style>
-
 # Star Rail Characters
 
 ---
@@ -22,38 +6,38 @@
 
 ```Player Boy 00```
 
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_PlayerBoy_00/"> <img src="/img/8001.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_00/"> <img src="/img/8001.png"/></a>
 
 ```Player Boy 10```
 
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_PlayerBoy_10/"> <img src="/img/8003.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_10/"> <img src="/img/8003.png"/></a>
 
 
 # Player Girl
 
-```Player Boy 00```
+```Player Girl 00```
 
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_PlayerGirl_00/"> <img src="/img/8002.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_00/"> <img src="/img/8002.png"/></a>
 
-```Player Boy 10```
+```Player Girl 10```
 
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_PlayerGirl_10/"> <img src="/img/8004.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_10/"> <img src="/img/8004.png"/></a>
 
 ---
 
 # The Astral Express
 
 ```Himeko```
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_Himeko_00/"> <img src="/img/1003.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_Himeko_00/"> <img src="/img/1003.png"/></a>
 
 ```Welt```
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_Welt_00"><img src="/img/1004.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_Welt_00"><img src="/img/1004.png"/></a>
 
 ```Dan Heng```
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_DanHeng_00"> <img src="/img/1002.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_DanHeng_00"> <img src="/img/1002.png"/></a>
 
 ```March 7th```
-<a href="https://github.com/m4urlclo0/SR-Assets/Characters/Avatar_Mar_7th_00"> <img src="/img/1001.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_Mar_7th_00"> <img src="/img/1001.png"/></a>
 
 ---
 
