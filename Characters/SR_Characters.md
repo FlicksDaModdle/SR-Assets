@@ -5,23 +5,17 @@
 # Player Boy
 
 ```Player Boy 00```
-
-<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_00/"> <img src="/img/8001.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_00/"> <img src="/img/8001.png"width="300"/></a>
 
 ```Player Boy 10```
-
-<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_10/"> <img src="/img/8003.png"/></a>
-
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerBoy_10/"> <img src="/img/8003.png"width="300"/></a>
 
 # Player Girl
 
 ```Player Girl 00```
-
-<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_00/"> <img src="/img/8002.png"/></a>
-
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_00/"> <img src="/img/8002.png"width="350"/></a>
 ```Player Girl 10```
-
-<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_10/"> <img src="/img/8004.png"/></a>
+<a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_10/"> <img src="/img/8004.png"width="350"/></a>
 
 ---
 
